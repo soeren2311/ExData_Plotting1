@@ -1,5 +1,5 @@
 ###### Course_4_week1 - Quiz - Sören Nonnengart
-path <-  "/Users/sorennonnengart/Coursera/Data_science/Datensätze/c4_week1"
+path <-  "/Users/.../c4_week1"
 setwd(path)
 getwd()
 
